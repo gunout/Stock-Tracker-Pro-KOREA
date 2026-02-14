@@ -1,4 +1,4 @@
-# Stock-Tracker-Pro-KOREA
+# Stock-Tracker-Pro-KOREA - 🕐 Fuseau : Heure Paris (UTC+2)
 📊 Stock Tracker Pro - Analyse en Temps Réel - KOREA
 
 # LIENS APP STREAMLIT :
